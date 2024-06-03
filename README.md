@@ -1,6 +1,8 @@
 **Use our ANN model to predict if the customer with the following informations will leave the bank (using tensorflow): 
 **
+
 Geography: France
+
 Credit Score: 600
 Gender: Male
 Age: 40 years old
