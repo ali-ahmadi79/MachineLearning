@@ -1,15 +1,13 @@
-ML Clustering using streamlit for three algorithms:
+ML clustering with Streamlit for three algorithms:
 
-K-Means
-Hierarchial
-DBSCAN
+K-Means, Hierarchical, DBSCAN.
 
-It has implemented with three slider:
+It was implemented with three sliders.
 
-Scatter Alpha value
+Scatter Alpha value.
 
 Cluster numbers
 
-Blob size ratio
+Blob Size Ratio
 
-The result will be shown dynamically due to the values could be changed by end user visually.
+The result will be displayed dynamically based on the values that can be updated visibly by the user.
