@@ -1,5 +1,4 @@
-**Use our ANN model to predict if the customer with the following informations will leave the bank (using tensorflow): 
-**
+Use our ANN model to predict if the customer with the following information will leave the bank (using TensorFlow):
 
 Geography: France
 
@@ -11,7 +10,7 @@ Age: 40 years old
 
 Tenure: 3 years
 
-Balance: \$ 60000
+Balance: $ 60000
 
 Number of Products: 2
 
@@ -19,7 +18,6 @@ Does this customer have a credit card ? Yes
 
 Is this customer an Active Member: Yes
 
-Estimated Salary: \$ 50000
+Estimated Salary: $ 50000
 
 So, should we say goodbye to that customer ?
-
